@@ -5,3 +5,4 @@ Pridanie kucharskej knihy.
 
 Dalsie upravy.
 
+Uprav72
