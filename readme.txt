@@ -1,0 +1,1 @@
+Môj prvý Git repozitár.
